@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QicktimeAtomParserNet.Lib", "QicktimeAtomParserNet.Lib\QicktimeAtomParserNet.Lib.csproj", "{E7D25E40-5A61-46C4-9EA7-D9C59848C32F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QicktimeAtomParserNet.TestConsole", "QicktimeAtomParserNet.TestConsole\QicktimeAtomParserNet.TestConsole.csproj", "{E93515B5-7E7D-44BC-9E58-A2CF61F65FF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8864F37-1E65-4C92-8820-968E52439055}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{E7D25E40-5A61-46C4-9EA7-D9C59848C32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7D25E40-5A61-46C4-9EA7-D9C59848C32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7D25E40-5A61-46C4-9EA7-D9C59848C32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93515B5-7E7D-44BC-9E58-A2CF61F65FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93515B5-7E7D-44BC-9E58-A2CF61F65FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93515B5-7E7D-44BC-9E58-A2CF61F65FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93515B5-7E7D-44BC-9E58-A2CF61F65FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
